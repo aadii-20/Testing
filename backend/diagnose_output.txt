@@ -1,0 +1,201 @@
+
+================================================================================
+  DIAGNOSTIC REPORT FOR STANDARD 9
+================================================================================
+
+Found 5 subjects: ['English', 'Hindi', 'Maths', 'Science', 'Social Science']
+
+____________________________________________________________
+  Subject: English (4 chapters)
+____________________________________________________________
+
+  Chapter1.pdf (1291 KB)
+     Text length: 26044 chars, 4606 words
+     Chunks created: 52
+     OK: Text extraction successful
+     Sample: Notes for the T Notes for the Teacher eacher Beehive, a textbook in English for Class IX, is based on the new syllabus in English which was prepared as a follow-up to the National Curriculum Framework, 2005. The curriculum calls for an approach that 
+     Avg chunk length: 499 chars
+
+  Chapter2.pdf (1230 KB)
+     Text length: 24266 chars, 4208 words
+     Chunks created: 49
+     OK: Text extraction successful
+     Sample: 2. The Sound of Music Part I Evelyn Glennie Listens to Sound without Hearing It BEFORE EFORE EFORE Y  Y  YOU OU OU R  R  READ EAD • “God may have taken her hearing but he has given her back something extraordinary. What we hear, she feels — far more 
+     Avg chunk length: 494 chars
+
+  Chapter3.pdf (1245 KB)
+     Text length: 15725 chars, 2872 words
+     Chunks created: 32
+     OK: Text extraction successful
+     Sample: 3. The Little Girl BEFORE EFORE EFORE Y  Y  YOU OU OU R  R  READ EAD • Do you feel you know your parents better now, than when you were much younger? Perhaps you now understand the reasons for some of their actions that used to upset you earlier. • T
+     Avg chunk length: 489 chars
+
+  Chapter4.pdf (1089 KB)
+     Text length: 22333 chars, 3852 words
+     Chunks created: 45
+     OK: Text extraction successful
+     Sample: Notes for the T Notes for the Teacher eacher Units  Units 4–6 –6 4. A TRULY BEAUTIFUL MIND The story of Einstein tries to show him as a human being, a fairly ordinary person who had his likes and dislikes, his streaks of rebellion, and his problems. 
+     Avg chunk length: 494 chars
+
+____________________________________________________________
+  Subject: Hindi (5 chapters)
+____________________________________________________________
+
+  Chapter1.pdf (1718 KB)
+     Text length: 25589 chars, 5147 words
+     Chunks created: 51
+     OK: Text extraction successful
+     Devanagari chars: 19540 (76.4% of text)
+     OK: Hindi text (Devanagari) extraction successful
+     Sample: गद्य-खंड त्मचतपदज 2025.26  गद्य जीवन संग्राम की भाषा है। - सूर्यकांत त्रिपाठी ‘निराला’ यदि गद्य कवियों की कसौटी है तो निबंध गद्य की कसौटी है। भाषा की पूर्ण शक्ित का विकास निबंधों में ही सबसे अध्िाक संभव होता है। - रामचंद्र शुक्ल कहानी ऐसी रचना है जिस
+     Avg chunk length: 500 chars
+
+  Chapter2.pdf (757 KB)
+     Text length: 15178 chars, 2990 words
+     Chunks created: 31
+     OK: Text extraction successful
+     Devanagari chars: 11709 (77.1% of text)
+     OK: Hindi text (Devanagari) extraction successful
+     Sample: राहुल सांकृत्यायन राहुल सांकृत्यायन का जन्म सन् 1893 में उनवेफ ननिहाल गाँव पंदहा] श्िाला आशमगढ़ ;उत्तर प्रदेशद्ध में हुआ। उनका पैतृक गाँव कनैला था। उनका मूल नाम वेफदार पांडेय था। उनकी श्िाक्षा काशी] आगरा और लाहौर में हुई। सन् 1930 में उन्होंने श्रीलंक
+     Avg chunk length: 488 chars
+
+  Chapter3.pdf (579 KB)
+     Text length: 11171 chars, 2088 words
+     Chunks created: 23
+     OK: Text extraction successful
+     Devanagari chars: 8762 (78.4% of text)
+     OK: Hindi text (Devanagari) extraction successful
+     Sample: श्यामाचरण दुबे श्यामाचरण दुबे का जन्म सन् 1922 में मधय प्रदेश वेफ बुंदेलखंड क्षेत्रा में हुआ। उन्होंने नागपुर विश्वविद्यालय से मानव विज्ञान में पीएच.डी. की। वे भारत वेफ अग्रणी समाज वैज्ञानिक रहे हैं। उनका देहांत सन् 1996 में हुआ। मानव और संस्कृति] पर
+     Avg chunk length: 484 chars
+
+  Chapter4.pdf (594 KB)
+     Text length: 9721 chars, 1884 words
+     Chunks created: 20
+     OK: Text extraction successful
+     Devanagari chars: 7525 (77.4% of text)
+     OK: Hindi text (Devanagari) extraction successful
+     Sample: जाबिर हुसैन जाबिर हुसैन का जन्म सन् 1945 में गाँव नौनहीं राजगीर] श्िाला नालंदा] बिहार में हुआ। वे अंग्रेशी भाषा एवं साहित्य वेफ प्राधयापक रहे। सक्रिय राजनीति में भाग लेते हुए 1977 में मुंगेर से बिहार विधानसभा वेफ सदस्य निवर्ाचित हुए और मंत्राी बने। स
+     Avg chunk length: 484 chars
+
+  Chapter5.pdf (598 KB)
+     Text length: 9945 chars, 1914 words
+     Chunks created: 20
+     OK: Text extraction successful
+     Devanagari chars: 7654 (77.0% of text)
+     OK: Hindi text (Devanagari) extraction successful
+     Sample: हरिशंकर परसाई हरिशंकर परसाई का जन्म सन् 1922 में मधय प्रदेश वेफ होशंगाबाद श्िाले वेफ जमानी गाँव में हुआ। नागपुर विश्वविद्यालय से एमúएú करने वेफ बाद वुफछ दिनों तक अधयापन किया। सन् 1947 से स्वतंत्रा लेखन करने लगे। जबलपुर से वसुधा नामक पत्रिाका निकाली] 
+     Avg chunk length: 496 chars
+
+____________________________________________________________
+  Subject: Maths (4 chapters)
+____________________________________________________________
+
+  Chapter1.pdf (1750 KB)
+     Text length: 33634 chars, 7062 words
+     Chunks created: 67
+     OK: Text extraction successful
+     Sample: NUMBER SYSTEMS 1 CHAPTER 1 NUMBER SYSTEMS 1.1 Introduction In your earlier classes, you have learnt about the number line and how to represent various types of numbers on it (see Fig. 1.1). Fig. 1.1 : The number line Just imagine you start from zero 
+     Avg chunk length: 498 chars
+
+  Chapter2.pdf (1246 KB)
+     Text length: 28875 chars, 6845 words
+     Chunks created: 58
+     OK: Text extraction successful
+     Sample: POLYNOMIALS 25 CHAPTER 2 POLYNOMIALS 2.1 Introduction You have studied algebraic expressions, their addition, subtraction, multiplication and division in earlier classes. You also have studied how to factorise some algebraic expressions. You may reca
+     Avg chunk length: 496 chars
+
+  Chapter3.pdf (1037 KB)
+     Text length: 16239 chars, 3143 words
+     Chunks created: 33
+     OK: Text extraction successful
+     Sample: CHAPTER 3 COORDINATE GEOMETRY What’s the good of Mercator’s North Poles and Equators, Tropics, Zones and Meridian Lines?’ So the Bellman would cry; and crew would reply ‘ They are merely conventional signs!’ LEWIS CARROLL, The Hunting of the Snark 3.
+     Avg chunk length: 491 chars
+
+  Chapter4.pdf (416 KB)
+     Text length: 9101 chars, 2090 words
+     Chunks created: 19
+     OK: Text extraction successful
+     Sample: LINEAR EQUATIONS IN TWO VARIABLES 55 CHAPTER 4 LINEAR EQUATIONS IN TWO VARIABLES The principal use of the Analytic Art is to bring Mathematical Problems to Equations and to exhibit those Equations in the most simple terms that can be. —Edmund Halley 
+     Avg chunk length: 477 chars
+
+____________________________________________________________
+  Subject: Science (5 chapters)
+____________________________________________________________
+
+  Chapter1.pdf (8269 KB)
+     Text length: 29244 chars, 5237 words
+     Chunks created: 59
+     OK: Text extraction successful
+     Sample: 1 MATTER ATTER ATTER IN IN IN O  O  OUR UR UR S  S  SURROUNDINGS URROUNDINGS C hapter Activity _ 1.1 As we look at our surroundings, we see a large variety of things with different shapes, sizes and textures. Everything in this universe is made up of
+     Avg chunk length: 494 chars
+
+  Chapter2.pdf (1658 KB)
+     Text length: 24686 chars, 4236 words
+     Chunks created: 49
+     OK: Text extraction successful
+     Sample: 2 IS M  M  MATTER ATTER ATTER A  A  AROUND ROUND ROUND U  U  US P  P  PURE URE URE? C hapter a pure substance and cannot be separated by physical process into its chemical constituents. Similarly, sugar is a substance which contains only one kind of 
+     Avg chunk length: 502 chars
+
+  Chapter3.pdf (1378 KB)
+     Text length: 25331 chars, 4483 words
+     Chunks created: 51
+     OK: Text extraction successful
+     Sample: 3 ATOMS TOMS TOMS AND AND AND M  M  MOLECULES OLECULES C hapter much experimentations by Lavoisier and Joseph L. Proust. Ancient Indian and Greek philosophers have always wondered about the unknown and unseen form of matter. The idea of divisibility 
+     Avg chunk length: 495 chars
+
+  Chapter4.pdf (1059 KB)
+     Text length: 24195 chars, 4372 words
+     Chunks created: 48
+     OK: Text extraction successful
+     Sample: 4 STRUCTURE TRUCTURE TRUCTURE OF OF OF THE THE THE A  A  ATOM TOM C hapter In Chapter 3, we have learnt that atoms and molecules are the fundamental building blocks of matter. The existence of different kinds of matter is due to different atoms const
+     Avg chunk length: 502 chars
+
+  Chapter5.pdf (6267 KB)
+     Text length: 31975 chars, 5386 words
+     Chunks created: 64
+     OK: Text extraction successful
+     Sample: 5 THE HE HE F  F  FUNDAMENTAL UNDAMENTAL UNDAMENTAL U  U  UNIT NIT NIT OF OF OF L  L  LIFE IFE C hapter avoid air bubbles while putting the cover slip with the help of a mounting needle. Ask your teacher for help. We have prepared a temporary mount o
+     Avg chunk length: 498 chars
+
+____________________________________________________________
+  Subject: Social Science (5 chapters)
+____________________________________________________________
+
+  Chapter1.pdf (2684 KB)
+     Text length: 43969 chars, 7507 words
+     Chunks created: 88
+     OK: Text extraction successful
+     Sample: CHAPTER 1 What is Democracy? Why Democracy? OVERVIEW What is democracy? What are its features? This chapter builds on a simple definition of democracy. Step by step, we work out the meaning of the terms involved in this definition. The aim here is to
+     Avg chunk length: 498 chars
+
+  Chapter2.pdf (3498 KB)
+     Text length: 40105 chars, 6605 words
+     Chunks created: 80
+     OK: Text extraction successful
+     Sample: CHAPTER 2 CONSTITUTIONAL DESIGN OVERVIEW We noted in the previous chapter that in a democracy the rulers are not free to do what they like. There are certain basic rules that the citizens and the government have to follow. All such rules together are
+     Avg chunk length: 500 chars
+
+  Chapter3.pdf (3778 KB)
+     Text length: 50518 chars, 8620 words
+     Chunks created: 101
+     OK: Text extraction successful
+     Sample: CHAPTER 3 Electoral Politics OVERVIEW In Chapter 1 we have seen that in a democracy it is neither possible nor necessary for people to govern directly. The most common form of democracy in our times is for the people to govern through their represent
+     Avg chunk length: 499 chars
+
+  Chapter4.pdf (2940 KB)
+     Text length: 46421 chars, 7854 words
+     Chunks created: 93
+     OK: Text extraction successful
+     Sample: CHAPTER 4 Working of Institutions OVERVIEW Democracy is not just about people electing their rulers. In a democracy the rulers have to follow some rules and procedures. They have to work with and within institutions. This chapter is about the working
+     Avg chunk length: 498 chars
+
+  Chapter5.pdf (2358 KB)
+     Text length: 47141 chars, 8085 words
+     Chunks created: 94
+     OK: Text extraction successful
+     Sample: CHAPTER 5 DEMOCRATIC RIGHTS OVERVIEW In the previous two chapters we have looked at two major elements of a democratic government. In Chapter 3 we saw how a democratic government has to be periodically elected by the people in a free and fair manner.
+     Avg chunk length: 500 chars
+
+================================================================================
+  SUMMARY: 0 issues found
+================================================================================

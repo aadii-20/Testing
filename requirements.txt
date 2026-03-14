@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+pandas
+numpy
+pdfplumber
+python-dotenv
+langchain-huggingface
+langchain-core
+langchain-text-splitters
+python-jose[cryptography]

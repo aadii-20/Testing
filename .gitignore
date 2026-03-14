@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg
+*.egg-info/
+dist/
+build/
+*.so
+
+# Virtual Environment
+venv/
+env/
+.venv/
+.env/
+
+# Environment Variables — NEVER commit these
+backend/.env
+.env
+*.env
+
+# Database files
+*.db
+*.sqlite3
+
+# Node / Frontend
+frontend/node_modules/
+frontend/.vite/
+frontend/dist/
+node_modules/
+dist/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# HuggingFace cache
+.cache/

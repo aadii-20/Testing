@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pymongo[srv]
+dnspython
+python-jose[cryptography]
+bcrypt
+pydantic[email]
+PyPDF2
+faiss-cpu
+sentence-transformers
+ollama
+groq
+python-dotenv
+PyMuPDF
+huggingface_hub
